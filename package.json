@@ -1,0 +1,27 @@
+{
+  "name": "comunity-theme",
+  "version": "1.0.0",
+  "description": "comunity theme for app comunity",
+  "main": "/src/scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevelopersbierzo/comunity-theme.git"
+  },
+  "keywords": [
+    "comunity",
+    "manager",
+    "theme",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Oscar Corral Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevelopersbierzo/comunity-theme/issues"
+  },
+  "homepage": "https://github.com/webdevelopersbierzo/comunity-theme#readme"
+}
